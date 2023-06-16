@@ -13,5 +13,5 @@ const my_math = require('./my_math')
 let res=my_math.add(7,8,9)
 
 
-my_math.cat()
+my_math.cat("Hello")
 console.log(res)

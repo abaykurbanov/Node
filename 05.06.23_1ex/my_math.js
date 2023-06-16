@@ -3,10 +3,10 @@ const add=function(a,b,c){
     
 }
 
-const cat=function (){
+const cat=function (text){
     console.log( `
  /\\_/\\  
-( o.o ) 
+( o.o ) ${text}
  > ^ < 
 `)
 }
